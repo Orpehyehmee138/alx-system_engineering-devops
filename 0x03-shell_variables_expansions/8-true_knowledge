@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((TRUEKNOWLDGE + 128)) $'\n'
+echo -e "$((TRUEKNOWLDGE+128)) \n"
