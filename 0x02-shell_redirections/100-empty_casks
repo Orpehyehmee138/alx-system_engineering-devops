@@ -1,2 +1,2 @@
 #!/bin/bash
-fint -empty | rev | cut -d/ -f1 | rev
+find -empty | rev | cut -d/ -f1 | rev
